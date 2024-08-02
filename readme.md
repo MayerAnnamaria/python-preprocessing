@@ -1,5 +1,8 @@
 # Data preprocessing
 
-Importing files from GoogleDrive, Excel
+- Importing_files
+from GoogleDrive, Excel, .Dta, CSV
 
-Handling missing data
+- Handling missing data
+replacing missing values
+counting missing values
